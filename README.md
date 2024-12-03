@@ -15,7 +15,7 @@ A modern, responsive Portfolio Template built with **PHP** and **Tailwind CSS**.
 ![Portfolio Template Preview](https://ondrejpacovsky.cz/demo/highseas/PortfolioTemplate2/preview.jpg)  
 
 ## Installation
-To run this project, simply clone this repo and open / host index.html.
+To run this project, simply clone this repo and host the php files.
    ```bash
    git clone https://github.com/Ondra9071/HighSeas-PortfolioTemplate2.git
    ```
