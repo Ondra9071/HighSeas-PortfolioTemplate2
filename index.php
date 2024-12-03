@@ -141,7 +141,7 @@ $config = include 'config.php';
                 </div>
                 <div class="bg-gray-800 p-6 rounded-lg shadow-md">
                     <h3 class="text-lg font-semibold mb-2">GitHub</h3>
-                    <a target="_blank" href="https://www.linkedin.com/in/<?= htmlspecialchars($config['contact']['github']) ?>/" class="text-[#7e6ec4] hover:text-[#6e5cbc]">@<?= htmlspecialchars($config['contact']['github']) ?></a>
+                    <a target="_blank" href="https://github.com/<?= htmlspecialchars($config['contact']['github']) ?>/" class="text-[#7e6ec4] hover:text-[#6e5cbc]">@<?= htmlspecialchars($config['contact']['github']) ?></a>
                 </div>
             </div>
         </div>
